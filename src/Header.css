@@ -1,0 +1,20 @@
+/* Header.css */
+.Header {
+    text-align: center;
+  }
+  
+  .Header-content {
+    display: flex;
+    flex-direction: column; /* لجعل النص يظهر فوق الصورة */
+    align-items: center;
+  }
+  
+  .Header-text {
+    margin-bottom: 10px; /* مساحة بين النص والصورة */
+  }
+  
+  .Header-image {
+    width: 300px; /* عرض الصورة */
+    height: auto; /* الحفاظ على نسبة العرض إلى الارتفاع */
+  }
+  
